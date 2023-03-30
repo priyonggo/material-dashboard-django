@@ -48,7 +48,7 @@
 
 ```bash
 $ # Get the code
-$ git clone https://github.com/creativetimofficial/material-dashboard-django.git
+$ git clone https://github.com/priyonggo/material-dashboard-django.git
 $ cd material-dashboard-django
 $
 $ # Virtualenv modules installation (Unix based systems)
